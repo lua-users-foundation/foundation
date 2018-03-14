@@ -24,5 +24,5 @@ The Foundation formal decision-making process is governed by the Lua Users Found
  * To support and foster critical projects such as Lua libraries (modules) and frameworks ecosystems.
  * To support and foster the Lua community.
  * To encourage wider adoption of Lua programming language in the world.
- * To be a lasting organisation generating positive impact to those writing software in Lua.
+ * To be a lasting organization generating positive impact to those writing software in Lua.
  * To serve as a point of contact for organizations seeking to support and sponsor Lua development. 
