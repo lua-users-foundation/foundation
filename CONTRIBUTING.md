@@ -10,6 +10,8 @@ Contributions are expected to follow the [code of conduct](CODE_OF_CONDUCT.md).
 As is somewhat standard practice, the following should be observed:
 
 - The usage of Markdown-formatted lists is allowed
+- Commit messages should start with an imperative verb, to act as a description
+of what applying the commit would do: "If applied, this commit will..."
 - Paragraphs should be broken with an empty line between
 - Further lines after the header should be no more than 72 characters
 - Further lines, if required, should contain detailed information on:
