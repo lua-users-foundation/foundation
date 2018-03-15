@@ -10,7 +10,8 @@ Contributions are expected to follow the [code of conduct](CODE_OF_CONDUCT.md).
 As is somewhat standard practice, the following should be observed:
 
 - The usage of Markdown-formatted lists is allowed
-- Commit messages should start with an imperative verb, to act as a description
+- The header line should be no more than 60 characters
+- Commit headers should start with an imperative verb, to act as a description
 of what applying the commit would do: "If applied, this commit will..."
 - Paragraphs should be broken with an empty line between
 - Further lines after the header should be no more than 72 characters
@@ -20,7 +21,6 @@ of what applying the commit would do: "If applied, this commit will..."
 
 Commits relating to one file should follow these guidelines:
 
-- The header line should be no more than 60 characters
 - The header line should contain the filename and a short description of what
 applying the patch will do, in the format of "If applied, this commit will..."
 - The second line should be blank
@@ -43,7 +43,6 @@ Reasons for Changes:
 
 Commits relating to multiple files should follow these guidelines:
 
-- The header line should be no more than 50 characters
 - The header line should contain a short description of what applying the patch
 will do, in the format of "If applied, this commit will..."
 - The second line should be blank
