@@ -3,6 +3,8 @@
 This document serves as contribution guidelines and the points listed should be
 followed for contributions to the foundation.
 
+Contributions are expected to follow the [code of conduct](CODE_OF_CONDUCT.md).
+
 ## Commit Guidelines
 
 As is somewhat standard practice, the following should be observed:
