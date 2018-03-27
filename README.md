@@ -11,4 +11,4 @@ The list of people involved with the foundation can be seen [here](https://githu
 
 # Join us
 
-Join us and collaborate in this initiave. The work will be conducted in this repository and we are also chatting about it at Slack. Click here to join our [Slack Channel](https://join.slack.com/t/lua-users-foundation/shared_invite/enQtMzMwMDQ2MTcwNzU4LTg1YmU1ZDg0ZGY0MGY2OTdhZjQ0YzZmNjAzNzdhMTZjNTdkMDNkOWNmZDlkMmZiNWQ0M2ZlNWQ4MGI5YjUxNzQ)
+Join us and collaborate in this initiave. The work will be conducted in this repository and we are also chatting about it at Slack. Click here to join our [Slack Channel](https://join.slack.com/t/lua-users-foundation/shared_invite/enQtMzM2ODEwMDI4MjQ0LTJhMWY5ODU1ZTdkMmZkMTgxOWIwMDNkOTdhZWFmM2NiY2FiOWRhZDYxOTMxZGFiYWViOGIwZDgwZDZmYWZhYjM)
