@@ -1,4 +1,4 @@
-﻿# LUF-VV: Framework for Validation and Verification of Lua Implementations
+# LUF-VV: Framework for Validation and Verification of Lua Implementations
 
 A couple of notes to the reader. This document is an early draft, so please consider following:
 
